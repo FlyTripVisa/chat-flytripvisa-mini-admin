@@ -19,4 +19,12 @@
 		"binding": "AI"
 	},
 	"upload_source_maps": true
-}
+}, 
+"ai": {
+    "binding": "AI"
+  },
+  "d1_databases": [
+    {
+      "binding": "database",
+      "database_id": "f274effd-ff6e-4c75-b8a8-4083726232fe"
+    }
